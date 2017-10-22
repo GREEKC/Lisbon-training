@@ -7,7 +7,7 @@ The goal of the event is to foster cross-training between bioinformaticians deve
 ### Organisers
 
 - Martin Kuiper (<martin.kuiper@ntnu.no>)
-- Jacques VAN HELDEN (<Jacques.van-helden@univ-amu.fr>)
+- Jacques van Helden (<Jacques.van-helden@univ-amu.fr>)
 - Benoît Ballester (<benoit.ballester@inserm.fr>)
 - Noemi Del Toro Ayllon <ntoro@ebi.ac.uk>, 
 
