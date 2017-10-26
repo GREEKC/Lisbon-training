@@ -70,3 +70,6 @@ The latter requests give you matrices Nx4, each position encodes scores/counts f
 ```
 
 One can also filter motifs by quality (A,B,C consist reliable core of HOCOMOCO, D-quality motifs are less reliable). If one want to take the only motif, use a primary one (one which has rank equals to 0).
+
+# Documentation page
+A bit more details are available on the following [page](http://hocomoco11.autosome.ru/api_description)
