@@ -1,0 +1,20 @@
+---
+title: "RSAT Web services"
+author: "Jacques van Helden"
+date: "10/26/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Links to info about RSAT Web services
+
+| What            | Where                                   |
+|-------------------|---------------------------------------------|
+| Web services doc | Open a connection to <http://teaching.rsat.eu/> and click on SOAP Web Services >  [Programmatic interface to RSAT](http://pedagogix-tagc.univ-mrs.fr/rsat/htmllink.cgi?title=RSAT%20:%20Web%20services&file=web_services.html) |
+| Doc for the supported Web services | [WSDL Documentation](http://pedagogix-tagc.univ-mrs.fr/rsat/htmllink.cgi?title=RSAT%20:%20Web%20services%20documentation&file=web_services/RSATWS_documentation.xml)  |
+| Protocol | Analyzing multiple data sets by interconnecting RSAT programs via SOAP Web services: an example with ChIP-chip data. Sand O, Thomas-Chollier M, Vervisch E, van Helden J. Nat Protoc. 2008;3(10):1604-15. doi: 10.1038/nprot.2008.99. [PMID 18802441](https://www.ncbi.nlm.nih.gov/pubmed/18802441)  |
+| | |
+
